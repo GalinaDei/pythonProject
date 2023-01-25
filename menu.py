@@ -1,10 +1,9 @@
 import logging
 import calc_lib
-import get_value
 import logger
 
 
-def greeting(mess):
+def greeting():
     print("Hello! Calculator is ready to work.")
     logging.info("Start program")
 

@@ -1,7 +1,6 @@
 import menu
-import logger
 
-menu.greeting(input("Enter to start"))
+menu.greeting()
 
 menu.mode_menu()
 
